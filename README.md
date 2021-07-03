@@ -4,7 +4,7 @@ The App was made using C# WinForm
 A simple Notepad which allows user to edit, save and open text files.
 
 ## About The App and Future Updates
--Add Custom options
+- Add Custom options
 - Update the fonts and sizes.
 
 ## Motivation
