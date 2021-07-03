@@ -134,6 +134,11 @@ namespace Notepad
             Form aboutForm = new Form2();
             aboutForm.ShowDialog();
         }
+
+        private void richTextBox1_TextChanged(object sender, EventArgs e)
+        {
+            
+        }
     }
     }
 
